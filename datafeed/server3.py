@@ -24,6 +24,7 @@ from datetime import timedelta, datetime
 
 import csv
 import dateutil.parser
+import dateutil
 import os.path
 
 import operator
